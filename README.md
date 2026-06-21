@@ -5,16 +5,16 @@
 I'm a Computer Science student working towards building a strong foundation in programming. 
 
 ## Technologies I'm Learning 
-- Python
+- Java
 - SQL
 - Html & CSS
 
 ## Current Focus
-- Completing CS50 Course
+- Completing Mooc Fi Java Course
 - Building a Portfolio Website
 
 ## Projects
-- Portfolio Website
+- Minimal Phone App
 
 ## Contact Information
 - Phone: 1-920-228-3067
